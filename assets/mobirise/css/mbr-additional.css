@@ -1740,7 +1740,7 @@ a {
 .cid-s9hxvLKzJr {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-s9hxvLKzJr .nav-tabs .nav-item.open .nav-link:focus,
 .cid-s9hxvLKzJr .nav-tabs .nav-link.active:focus {
@@ -1861,6 +1861,11 @@ a {
 .cid-s9hx5n0ECn .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
+}
+.cid-s9nMl7rh1e {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #fafafa;
 }
 .cid-s9hnLezPBS {
   padding-top: 5rem;
